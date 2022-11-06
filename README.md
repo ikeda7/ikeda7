@@ -4,4 +4,8 @@
 - 🌱 Knowledges about C/C++ and Java
 - 🤔 I’m looking for a job
 - 📫 How to reach me: l.ikeda@unesp.br
+<div align="center">
+  💬 About me: I'm a brazilian developer
+</div>
+  
 
