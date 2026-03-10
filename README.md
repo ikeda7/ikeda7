@@ -1,8 +1,6 @@
 # Hi, I'm Lucas Ikeda! 👋
 
-<p align="center">
-  ![Banner](https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=150&section=header&text=Lucas%20Ikeda&fontSize=72&animation=fadeIn)
-</p>
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=150&section=header&text=Lucas%20Ikeda&fontSize=72&animation=fadeIn)
 
 <p align="center">
   <strong>Computer Science Student at FCT - UNESP | Fullstack Developer & Data Science Enthusiast</strong>
@@ -59,3 +57,5 @@
 - 💼 **LinkedIn:** [linkedin.com/in/lucasikeda](https://www.linkedin.com/in/lucasikeda)
 - 📧 **Email:** [lucasvikeda@gmail.com](mailto:lucasvikeda@gmail.com)
 - 📍 **Location:** Pirapozinho, SP - Brazil
+
+<br>
