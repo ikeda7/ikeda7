@@ -1,7 +1,5 @@
 # Hi, I'm Lucas Ikeda! 👋
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=150&section=header&text=Lucas%20Ikeda&fontSize=72&animation=fadeIn)
-
 <p align="center">
   <strong>Computer Science Student at FCT - UNESP | Fullstack Developer & Data Science Enthusiast</strong>
 </p>
