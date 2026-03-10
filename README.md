@@ -1,7 +1,7 @@
 # Hi, I'm Lucas Ikeda! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Lucas%20Ikeda&fontSize=70&animation=fadeIn" />
+  ![Banner](https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=150&section=header&text=Lucas%20Ikeda&fontSize=72&animation=fadeIn)
 </p>
 
 <p align="center">
