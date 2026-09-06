@@ -73,8 +73,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ikeda7&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Lucas Ikeda's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikeda7&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF" alt="Most used languages" />
+<img width="48%" src="https://raw.githubusercontent.com/ikeda7/ikeda7/main/metrics/overview.svg" alt="Lucas Ikeda's GitHub stats" />
+<img width="48%" src="https://raw.githubusercontent.com/ikeda7/ikeda7/main/metrics/languages.svg" alt="Most used languages" />
 
 </div>
 
@@ -124,6 +124,6 @@ Open to opportunities, open source collaboration, and a good conversation about 
   <img src="https://img.shields.io/badge/lucasvikeda%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 
-<sub>📍 Pirapozinho, SP — Brazil</sub>
+<sub>📍 Bauru, SP — Brazil</sub>
 
 </div>

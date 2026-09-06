@@ -73,8 +73,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ikeda7&show_icons=true&count_private=true&hide_border=true&locale=pt-br&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Estatísticas do GitHub de Lucas Ikeda" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikeda7&layout=compact&langs_count=8&hide_border=true&locale=pt-br&theme=tokyonight&bg_color=0D1117&title_color=58A6FF" alt="Linguagens mais usadas" />
+<img width="48%" src="https://raw.githubusercontent.com/ikeda7/ikeda7/main/metrics/overview.svg" alt="Estatísticas do GitHub de Lucas Ikeda" />
+<img width="48%" src="https://raw.githubusercontent.com/ikeda7/ikeda7/main/metrics/languages.svg" alt="Linguagens mais usadas" />
 
 </div>
 
@@ -124,6 +124,6 @@ Aberto a oportunidades, colaborações em projetos open source e uma boa convers
   <img src="https://img.shields.io/badge/lucasvikeda%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 
-<sub>📍 Pirapozinho, SP — Brasil</sub>
+<sub>📍 Bauru, SP — Brasil</sub>
 
 </div>
