@@ -98,10 +98,10 @@
 
 | Projeto | O que é | Tecnologias | Links |
 | :--- | :--- | :--- | :--- |
-| **🏐 VolleyControl** | Gerenciador de rachão de vôlei: cadastro de jogadores, check-in, sorteio equilibrado de times e placar ao vivo. Roda em Windows, Android e web. | `Flutter` `Dart` `Drift` `SQLite` | [Código](https://github.com/ikeda7/sports-control) · **[Demo ↗](https://sportscontrol.vercel.app)** |
-| **⚖️ LexTrack** | Sistema de gestão para escritório de advocacia previdenciário — controle de prazos, acompanhamento de casos e prestação de contas. | `TypeScript` `React` `Node.js` `PostgreSQL` | 🔒 Repo privado · **[Demo ↗](https://lextrack-pi.vercel.app)** |
-| **🕵️ x9-game** | Party game de dedução social para jogar com amigos em um único celular, com estética "Noir Cibernético". | `React` `TypeScript` `Vite` `PWA` | [Código](https://github.com/ikeda7/x9-game) · **[Demo ↗](https://x9.dev.br)** |
-| **🌷 Flowers Two** | Buquê de flores em 3D voxel montado por código — o arranjo é resolvido por simulação de encaixe, não posicionado à mão. | `TypeScript` `Next.js` `React Three Fiber` | 🔒 Repo privado · **[Demo ↗](https://flowers2.dev)** |
+| **🏐 SportsControl** | Gerenciador de rachão de vôlei: cadastro de jogadores, check-in, sorteio equilibrado de times e placar ao vivo. Roda em Windows, Android e web. | `Flutter` `Dart` `Drift` `SQLite` | [Código](https://github.com/ikeda7/sports-control) · [Demo](https://sportscontrol.vercel.app) |
+| **🕵️ x9-game** | Party game de dedução social para jogar com amigos em um único celular, com estética "Noir Cibernético". | `React` `TypeScript` `Vite` `PWA` | [Código](https://github.com/ikeda7/x9-game) · [Demo](https://x9.dev.br) |
+| **🎹 Music AI Generator** | Transformer treinado nos datasets MAESTRO, POP909 e Groove MIDI, gerando MIDI multi-instrumental filtrado por escalas da teoria musical. | `Python` `PyTorch` `Transformer` `MIDI` | [Código](https://github.com/ikeda7/music-ai-generator) |
+| **🤖 Desafio IntuitiveCare** | Pipeline de scraping e ETL sobre dados públicos da ANS — coleta, extração de PDFs e transformação. | `Python` `Pandas` `BeautifulSoup` `Flask` | [Código](https://github.com/ikeda7/intuitivecare) |
 
 <div align="center">
   <a href="https://github.com/ikeda7?tab=repositories">

@@ -98,10 +98,10 @@
 
 | Project | What it is | Tech | Links |
 | :--- | :--- | :--- | :--- |
-| **🏐 VolleyControl** | Pickup volleyball manager: player registry, check-in, balanced team draw, and live scoreboard. Runs on Windows, Android, and the web. | `Flutter` `Dart` `Drift` `SQLite` | [Code](https://github.com/ikeda7/sports-control) · **[Demo ↗](https://sportscontrol.vercel.app)** |
-| **⚖️ LexTrack** | Case management system for a social-security law firm — deadlines, case tracking, and financial accountability. | `TypeScript` `React` `Node.js` `PostgreSQL` | 🔒 Private repo · **[Demo ↗](https://lextrack-pi.vercel.app)** |
-| **🕵️ x9-game** | Social deduction party game played by passing a single phone around, with a "Cyber Noir" look. | `React` `TypeScript` `Vite` `PWA` | [Code](https://github.com/ikeda7/x9-game) · **[Demo ↗](https://x9.dev.br)** |
-| **🌷 Flowers Two** | A 3D voxel flower bouquet assembled by code — the arrangement is solved by a fitting simulation, not placed by hand. | `TypeScript` `Next.js` `React Three Fiber` | 🔒 Private repo · **[Demo ↗](https://flowers2.dev)** |
+| **🏐 SportsControl** | Pickup volleyball manager: player registry, check-in, balanced team draw, and live scoreboard. Runs on Windows, Android, and the web. | `Flutter` `Dart` `Drift` `SQLite` | [Code](https://github.com/ikeda7/sports-control) · [Demo](https://sportscontrol.vercel.app) |
+| **🕵️ x9-game** | Social deduction party game played by passing a single phone around, with a "Cyber Noir" look. | `React` `TypeScript` `Vite` `PWA` | [Code](https://github.com/ikeda7/x9-game) · [Demo](https://x9.dev.br) |
+| **🎹 Music AI Generator** | Transformer trained on the MAESTRO, POP909 and Groove MIDI datasets, generating multi-instrumental MIDI filtered by music-theory scales. | `Python` `PyTorch` `Transformer` `MIDI` | [Code](https://github.com/ikeda7/music-ai-generator) |
+| **🤖 IntuitiveCare Challenge** | Scraping and ETL pipeline over public data from ANS, Brazil's health regulator — collection, PDF parsing, and transformation. | `Python` `Pandas` `BeautifulSoup` `Flask` | [Code](https://github.com/ikeda7/intuitivecare) |
 
 <div align="center">
   <a href="https://github.com/ikeda7?tab=repositories">
