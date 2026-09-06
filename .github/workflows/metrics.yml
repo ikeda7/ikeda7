@@ -18,11 +18,28 @@ jobs:
       contents: write
 
     steps:
+      # O GITHUB_TOKEN padrão é escopado apenas a este repositório, então o
+      # metrics não consegue enumerar os outros repos do usuário e gera SVGs
+      # vazios. É necessário um PAT (classic, escopo public_repo + read:user)
+      # salvo como o segredo METRICS_TOKEN.
+      - name: Verifica se o METRICS_TOKEN existe
+        id: guard
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          if [ -z "$METRICS_TOKEN" ]; then
+            echo "::warning::Segredo METRICS_TOKEN ausente — geração ignorada."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Visão geral (atividade e repositórios)
+        if: steps.guard.outputs.ok == 'true'
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/overview.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: ikeda7
           base: header, activity, repositories
@@ -31,10 +48,11 @@ jobs:
           repositories_forks: no
 
       - name: Linguagens mais usadas
+        if: steps.guard.outputs.ok == 'true'
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: ikeda7
           base: ""
