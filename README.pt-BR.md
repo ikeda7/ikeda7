@@ -96,12 +96,12 @@
 
 ## 🚀 Projetos em destaque
 
-| Projeto | O que é | Tecnologias |
-| :--- | :--- | :--- |
-| **[🏐 VolleyControl](https://github.com/ikeda7/sports-control)** | Gerenciador de rachão de vôlei: cadastro de jogadores, check-in, sorteio equilibrado de times e placar ao vivo. Roda em Windows, Android e web. | `Flutter` `Dart` `Drift` `SQLite` |
-| **[⚖️ LexTrack](https://github.com/ikeda7/lextrack)** | Sistema de gestão para escritório de advocacia previdenciário — controle de prazos, acompanhamento de casos e prestação de contas. | `TypeScript` `React` `Node.js` `PostgreSQL` |
-| **[🕵️ x9-game](https://github.com/ikeda7/x9-game)** | Party game de dedução social para jogar com amigos em um único celular, com estética "Noir Cibernético". | `React` `TypeScript` `Vite` |
-| **[🌷 Flowers Two](https://github.com/ikeda7/flowers2)** | Buquê de flores em 3D voxel montado por código — o arranjo é resolvido por simulação de encaixe, não posicionado à mão. | `TypeScript` `Three.js` `WebGL` |
+| Projeto | O que é | Tecnologias | Demo |
+| :--- | :--- | :--- | :---: |
+| **[🏐 VolleyControl](https://github.com/ikeda7/sports-control)** | Gerenciador de rachão de vôlei: cadastro de jogadores, check-in, sorteio equilibrado de times e placar ao vivo. Roda em Windows, Android e web. | `Flutter` `Dart` `Drift` `SQLite` | **[Abrir ↗](https://sportscontrol.vercel.app)** |
+| **[⚖️ LexTrack](https://github.com/ikeda7/lextrack)** | Sistema de gestão para escritório de advocacia previdenciário — controle de prazos, acompanhamento de casos e prestação de contas. | `TypeScript` `React` `Node.js` `PostgreSQL` | **[Abrir ↗](https://lextrack-pi.vercel.app)** |
+| **[🕵️ x9-game](https://github.com/ikeda7/x9-game)** | Party game de dedução social para jogar com amigos em um único celular, com estética "Noir Cibernético". | `React` `TypeScript` `Vite` `PWA` | **[Abrir ↗](https://x9.dev.br)** |
+| **[🌷 Flowers Two](https://github.com/ikeda7/flowers2)** | Buquê de flores em 3D voxel montado por código — o arranjo é resolvido por simulação de encaixe, não posicionado à mão. | `TypeScript` `Next.js` `React Three Fiber` | **[Abrir ↗](https://flowers2.dev)** |
 
 <div align="center">
   <a href="https://github.com/ikeda7?tab=repositories">
